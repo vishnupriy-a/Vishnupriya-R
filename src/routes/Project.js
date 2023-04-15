@@ -21,7 +21,7 @@ const Project = () => {
             <h2>PORTFOLIO</h2>
             <p> My own portfolio website for learning purpose, using Reactjs </p> 
             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-            <p><a href="https://github.com/">Click Here!!! </a>to view project details</p>
+            <p><a href="https://github.com/vishnupriy-a/Vishnupriya-R.git">Click Here!!! </a>to view project details</p>
             
             </div>
     
