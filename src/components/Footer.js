@@ -76,11 +76,11 @@ const Footer  = () => {
       {/* <a href="https://wa.me/0000000000?Hey!"
         className="whatsapp social">
         <FontAwesomeIcon icon={faWhatsapp} size="2x" style={{marginRight:'1rem'}}/>
+      </a>
+      <a href="https://www.linkedin.com/"
+        className="linkedin social">
+        <FontAwesomeIcon icon={faLinkedin} size="2x" style={{marginRight:'1rem'}}/>
       </a> */}
-//       <a href="https://www.linkedin.com/"
-//         className="linkedin social">
-//         <FontAwesomeIcon icon={faLinkedin} size="2x" style={{marginRight:'1rem'}}/>
-//       </a>
       {/* <a href="href='t.me/@vishnupriy-a"
         className="telegram social">
         <FontAwesomeIcon icon={faTelegram} size="2x" style={{marginRight:'1rem'}}/>
