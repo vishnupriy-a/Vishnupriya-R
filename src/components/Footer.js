@@ -68,7 +68,7 @@ const Footer  = () => {
       {/* <a href="https://twitter.com/nikhiljp6?t=LooC615CePucbi_3naY66g&s=09" className="twitter social">
         <FontAwesomeIcon icon={faTwitter} size="2x" style={{marginRight:'1rem'}}/>
       </a> */}
-      <a href="https://github.com/vishnu-priy-a"
+      <a href="https://github.com/vishnupriy-a"
         className="github social">
         <FontAwesomeIcon icon={faGithub} size="2x" style={{marginRight:'1rem'}}/>
       </a>
@@ -77,10 +77,10 @@ const Footer  = () => {
         className="whatsapp social">
         <FontAwesomeIcon icon={faWhatsapp} size="2x" style={{marginRight:'1rem'}}/>
       </a> */}
-      <a href="https://www.linkedin.com/"
-        className="linkedin social">
-        <FontAwesomeIcon icon={faLinkedin} size="2x" style={{marginRight:'1rem'}}/>
-      </a>
+//       <a href="https://www.linkedin.com/"
+//         className="linkedin social">
+//         <FontAwesomeIcon icon={faLinkedin} size="2x" style={{marginRight:'1rem'}}/>
+//       </a>
       {/* <a href="href='t.me/@vishnupriy-a"
         className="telegram social">
         <FontAwesomeIcon icon={faTelegram} size="2x" style={{marginRight:'1rem'}}/>
